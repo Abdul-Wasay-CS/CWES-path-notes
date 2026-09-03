@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Requests/HTTP Fundamentals/HTTP Headers.md",
+                "file": "Web Requests/HTTP Fundamentals/HTTP Methods and Codes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTTP Headers"
+              "title": "HTTP Methods and Codes"
             }
           }
         ],
@@ -205,18 +205,19 @@
   },
   "active": "dc574061bbb45c30",
   "lastOpenFiles": [
-    "Pasted image 20260902175215.png",
-    "Pasted image 20260902175209.png",
-    "Web Requests/HTTP Fundamentals/HTTP/HTTP FLow.md",
+    "Web Requests/HTTP Fundamentals/HTTPS.md",
+    "Web Requests/HTTP Fundamentals/HTTP Methods and Codes.md",
+    "Note Rule.md",
     "Web Requests/HTTP Fundamentals/HTTP/URL.md",
+    "Web Requests/HTTP Fundamentals/HTTP/HTTP FLow.md",
     "Web Requests/HTTP Fundamentals/HTTP/HTTP.md",
     "Web Requests/HTTP Fundamentals/HTTP/cURL.md",
     "Web Requests/HTTP Fundamentals/HTTP Headers.md",
+    "Pasted image 20260902175215.png",
+    "Pasted image 20260902175209.png",
     "Web Requests/HTTP Fundamentals/HTTP requests and responses.md",
     "Pasted image 20260902144645.png",
     "Pasted image 20260902143730.png",
-    "Note Rule.md",
-    "Web Requests/HTTP Fundamentals/HTTPS.md",
     "Pasted image 20260902104829.png",
     "Pasted image 20260901202543.png",
     "Pasted image 20260901202526.png",
@@ -225,7 +226,6 @@
     "Pasted image 20260901193820.png",
     "Untitled",
     "Pasted image 20260901192347.png",
-    "Pasted image 20260901192142.png",
     "Web Requests/HTTP Fundamentals",
     "Web Requests"
   ]
