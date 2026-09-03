@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Requests/HTTP Methods/HTTP Methods and Codes.md",
+                "file": "Web Requests/HTTP Methods/GET Method.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTTP Methods and Codes"
+              "title": "GET Method"
             }
           }
         ],
@@ -203,11 +203,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "e076fa2de6ea059a",
+  "active": "dc574061bbb45c30",
   "lastOpenFiles": [
+    "Web Requests/HTTP Methods/HTTP Methods and Codes.md",
+    "Web Requests/HTTP Methods/GET Method.md",
     "Web Requests/HTTP Methods",
     "Web Requests/HTTP Fundamentals/HTTPS.md",
-    "Web Requests/HTTP Methods/HTTP Methods and Codes.md",
     "Note Rule.md",
     "Web Requests/HTTP Fundamentals/HTTP/URL.md",
     "Web Requests/HTTP Fundamentals/HTTP/HTTP FLow.md",
