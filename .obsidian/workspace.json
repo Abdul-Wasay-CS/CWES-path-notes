@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Requests/HTTP Fundamentals/HTTP Methods and Codes.md",
+                "file": "Web Requests/HTTP Methods/HTTP Methods and Codes.md",
                 "mode": "source",
                 "source": false
               },
@@ -203,10 +203,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "dc574061bbb45c30",
+  "active": "e076fa2de6ea059a",
   "lastOpenFiles": [
+    "Web Requests/HTTP Methods",
     "Web Requests/HTTP Fundamentals/HTTPS.md",
-    "Web Requests/HTTP Fundamentals/HTTP Methods and Codes.md",
+    "Web Requests/HTTP Methods/HTTP Methods and Codes.md",
     "Note Rule.md",
     "Web Requests/HTTP Fundamentals/HTTP/URL.md",
     "Web Requests/HTTP Fundamentals/HTTP/HTTP FLow.md",
