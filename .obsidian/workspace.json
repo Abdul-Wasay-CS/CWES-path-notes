@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Requests/HTTP Methods/CRUD API.md",
+                "file": "Learning Process/Talent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CRUD API"
+              "title": "Talent"
             }
           }
         ]
@@ -190,11 +190,20 @@
   },
   "active": "4edb1f5fb58248f4",
   "lastOpenFiles": [
+    "Learning Process/Occam's Razor.md",
+    "Learning Process/Talent.md",
+    "Learning Process/Think Outside the Box.md",
+    "Learning Process/Introduction.md",
+    "Untitled.md",
+    "Intro To Web Apps/Introduction To Web Application/Introduction.md",
+    "Learning Process",
+    "Web Requests/HTTP Methods/CRUD API.md",
+    "Intro To Web Apps/Introduction To Web Application",
+    "Intro To Web Apps",
     "Pasted image 20260904090549.png",
     "Pasted image 20260903211302.png",
     "Pasted image 20260903210532.png",
     "Web Requests/HTTP Methods/POST Method.md",
-    "Web Requests/HTTP Methods/CRUD API.md",
     "Pasted image 20260903152416.png",
     "Pasted image 20260903152400.png",
     "Web Requests/Web Requests - cheatsheet.pdf",
@@ -215,9 +224,7 @@
     "Web Requests/HTTP Fundamentals/HTTP requests and responses.md",
     "Pasted image 20260902144645.png",
     "Pasted image 20260902143730.png",
-    "Pasted image 20260902104829.png",
     "Web Requests/HTTP Fundamentals/HTTP",
-    "Untitled",
     "Web Requests/HTTP Fundamentals",
     "Web Requests"
   ]
