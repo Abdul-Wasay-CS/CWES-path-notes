@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Requests/HTTP Methods/POST Method.md",
+                "file": "Web Requests/HTTP Methods/CRUD API.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "POST Method"
+              "title": "CRUD API"
             }
           }
         ]
@@ -190,11 +190,15 @@
   },
   "active": "4edb1f5fb58248f4",
   "lastOpenFiles": [
+    "Pasted image 20260904090549.png",
+    "Pasted image 20260903211302.png",
+    "Pasted image 20260903210532.png",
+    "Web Requests/HTTP Methods/POST Method.md",
+    "Web Requests/HTTP Methods/CRUD API.md",
     "Pasted image 20260903152416.png",
     "Pasted image 20260903152400.png",
     "Web Requests/Web Requests - cheatsheet.pdf",
     "Pasted image 20260901200822.png",
-    "Web Requests/HTTP Methods/POST Method.md",
     "Web Requests/HTTP Fundamentals/HTTPS.md",
     "Web Requests/Unconfirmed 717906.crdownload",
     "Web Requests/HTTP Methods/GET Method.md",
@@ -212,10 +216,7 @@
     "Pasted image 20260902144645.png",
     "Pasted image 20260902143730.png",
     "Pasted image 20260902104829.png",
-    "Pasted image 20260901202543.png",
-    "Pasted image 20260901202526.png",
     "Web Requests/HTTP Fundamentals/HTTP",
-    "Pasted image 20260901193820.png",
     "Untitled",
     "Web Requests/HTTP Fundamentals",
     "Web Requests"
